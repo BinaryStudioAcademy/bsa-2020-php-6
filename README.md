@@ -1,5 +1,5 @@
 # Home task #
-1. Clone this repository
+1. Clone [this](https://github.com/BinaryStudioAcademy/bsa-2020-php-6) repository
 2. Install & run the project locally or in the container with [docker-compose](https://dotsandbrackets.com/quick-intro-to-docker-compose-ru/)
 A few examples of how to execute common commands in docker-compose:
     - Install composer-package `docker-compose exec app composer require package/name`
